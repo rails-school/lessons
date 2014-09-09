@@ -26,6 +26,7 @@ Created in RailsSchool.
          
 6. This scaffolding created a database migration that needs to be run, so run it with 
 
+        $ rake db:create
         $ rake db:migrate
          
 7. Launch the rails server 
