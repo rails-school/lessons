@@ -1,0 +1,1 @@
+json.extract! @player, :name, :country, :number
